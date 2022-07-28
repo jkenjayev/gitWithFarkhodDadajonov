@@ -1,1 +1,1 @@
-# gitWithFarkhodDadajonov
+# Learning git for professionals with Farkhod Dadanjonov
